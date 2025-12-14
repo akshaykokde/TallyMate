@@ -1,0 +1,8 @@
+{
+  "name": "TallyMate - AI Business Assistant",
+  "description": "A Tally-integrated business dashboard providing real-time financial insights, outstanding reports, and AI-powered data analysis for business owners.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
